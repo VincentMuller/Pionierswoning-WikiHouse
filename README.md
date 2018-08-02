@@ -25,7 +25,6 @@ You are responsible for meeting local codes and legislation Users must satisfy t
 You are responsible for using the information in a safe way Users are responsible for ensuring that information they use or cause to be used is used in a way which is safe, and is not likely to cause harm during or after manufacturing, construction, use or disassembly.
 
 Creative Commons License
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Unported License.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
