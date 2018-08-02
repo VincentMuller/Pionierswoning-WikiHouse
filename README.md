@@ -12,4 +12,6 @@ VERY IMPORTANT:
 Find a structural engineer to do or check the calculations for fitting to local circumstances, laws and regulations.
 Building this house is always on your own responsibility! 
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
 https://creativecommons.org/licenses/by-sa/4.0/
