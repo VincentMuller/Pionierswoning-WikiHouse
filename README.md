@@ -1,5 +1,7 @@
 # Pionierswoning-WikiHouse
 First built WikiHouse as a test and showcase (finished feb. 2018) for the 20 WikiHouses project in Almere, Netherlands.
+Started with the WREN system (as used in the MicroHouse) and changed it to a new system called SWIFT.
+
 The files are updated with minor changes to version 2 of the WikiHouse chassis of the Pionierswoning, containing:
 - Manual (pdf) with instructions how to build,
 - CAD file (dxf) including all the parts for CNC-cutting,
