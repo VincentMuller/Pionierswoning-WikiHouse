@@ -2,7 +2,7 @@
 First built WikiHouse as a test and showcase (finished feb. 2018) for the 20 WikiHouses project in Almere, Netherlands.
 Started with the WREN system (as used in the MicroHouse) and changed it to a new system called SWIFT. Where WREN has a maximum span at 3,6 m is the span of SWIFT to 4,8 m. (WREN is more flexible for making window and door openings, SWIFT is more flexible in interior space) 
 
-The files are updated with minor changes to version 2 of the WikiHouse chassis of the Pionierswoning, containing:
+The files are updated with minor changes to (version 2) the WikiHouse chassis of the Pionierswoning, containing:
 - Manual (pdf) with instructions how to build,
 - CAD file (dxf) including all the parts for CNC-cutting,
 - 3d Sketchup files (skp), including finishing materials inside and outside,
